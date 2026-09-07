@@ -19,9 +19,15 @@ A simple and responsive currency converter built using HTML, CSS, and JavaScript
 - Exchange API
 
 ## 📂 Project Structure
+```text
 currency-converter/
 │
 ├── index.html
 ├── index.css
 ├── index.js
 └── code.js
+```
+
+
+
+
